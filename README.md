@@ -2,7 +2,7 @@
 I'm a Computer Science student at East Texas A&M, with my fundamentals done at UT Austin.
 
 ### Technical Skills
-Python * C# * C++ * Javascript * SQL * React * pandas
+Python • C# • C++ • Javascript • MySQL • React • pandas
 
 ### Currently
 - Learning ML models in an intro to AI course
