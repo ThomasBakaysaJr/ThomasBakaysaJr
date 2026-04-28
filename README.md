@@ -7,7 +7,7 @@ Most of recent works has been focused on Secure Principles, Python, Docker, Node
 Python • Kotlin • C# • MySQL 
 
 ### Frameworks
-Flask • AWS • Linux • GitHub Actions • Node.js • Docker • OpenSSL • pandas
+Flask • AWS • Linux • Docker • OpenSSL • pandas
 
 ## Currently
 - Student IT Technician
