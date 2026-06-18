@@ -1,15 +1,19 @@
 ## Hello! I'm Thomas.
-I'm a CS senior at East Texas A&M (RELLIS), with a focus on application security and backend systems.
-Most of recent works has been focused on Secure Principles, Python, Docker, Node.js and distributed systems.
+I'm a CS senior at East Texas A&M (RELLIS) graduating in Aug 2026. I'm experienced in full stack developement with a focus on application security.
+Most of recent work has been focused on secure principles, Python, Docker, Node.js and distributed systems.
+
+## Experience
+- First Author on a ARES 2026 Paper ([LNTest: A Testbed for Evaluating Bitcoin Lightning Network-Based Botnets](https://arxiv.org/abs/2606.12887))
+- Student IT Technician
+- Tech lead in my capstone project. Insured git hygiene, standardized app architecture and a security first mindset
 
 ## Technical Skills
 ### Languages
-Python • Kotlin • C# • MySQL 
+Python • Kotlin • Java • C# • MySQL 
 
 ### Frameworks
 Flask • AWS • Linux • Docker • OpenSSL • pandas
 
 ## Currently
-- Student IT Technician
 - Building a CI/CD pipeline for an inventory tracking app to be used by a local business
-- Working as tech lead in my capstone project, insuring git hygiene, standard app architecture and a security first mindset
+- Studying for Sec+
